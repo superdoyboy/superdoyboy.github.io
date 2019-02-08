@@ -1,0 +1,31 @@
+.main {
+	background-image: url("https://i.ytimg.com/vi/YWcrfp_dXKM/maxresdefault.jpg");	
+	background-position: center top;
+	background-size: cover;
+	color:rgb(0,128,128);
+	background-color: (10,20,30);
+}
+
+.main a{
+	color:rgb(0, 100, 200);
+}
+
+body{
+	background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg" );
+	background-size: cover;
+}
+
+img{
+	border: 5px dashed #fff;
+	display: inline;
+	justify-content: center;
+}
+
+img a:active{
+	top: 2px;
+}
+
+h5{
+	color:white;
+	
+}
