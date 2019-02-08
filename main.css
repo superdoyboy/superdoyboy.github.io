@@ -1,7 +1,8 @@
 /* font-family: font, fallbackfont   [Fallback font used if font not supported by visitor's browser
  font-size: 32px
- color: #FF0000, red, rgb(0,128,128) */
-main {
+ color: #FF0000, red, rgb(0,128,128) 
+ Class selectors identified with . i.e. .main*/
+.main {
 	background-image: url('https://i.ytimg.com/vi/YWcrfp_dXKM/maxresdefault.jpg');
 	background-position: center top;
 	background-size: cover;
