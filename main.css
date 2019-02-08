@@ -1,10 +1,10 @@
 /* font-family: font, fallbackfont   [Fallback font used if font not supported by visitor's browser
- font-size: 32px
+ font-size: 32px [px for pixels, rem default font size for web browser i.e. 2rem]
  color: #FF0000, red, rgb(0,128,128) 
- Class selectors identified with . i.e. .main*/
+ Class selectors identified with . i.e. .main
+ background-image:url("url")*/
 .main {
-	background-image: url('https://i.ytimg.com/vi/YWcrfp_dXKM/maxresdefault.jpg');
-	background-position: center top;
+	background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");	background-position: center top;
 	background-size: cover;
 	color:rgb(0,128,128);
 }
