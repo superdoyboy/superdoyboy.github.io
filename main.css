@@ -5,11 +5,13 @@
  id selectors identified w ith # i.e. #learn-code
  background-image:url("url")
  id > class
-
+content --> padding --> border --> margin
+border: size type color        type--> [solid, dotted, dashed]
 
  'http://www.birds.com/wp-content/uploads/home/bird4.jpg'*/
 .main {
-	background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");	background-position: center top;
+	background-image: url("https://i.ytimg.com/vi/YWcrfp_dXKM/maxresdefault.jpg");	
+	background-position: center top;
 	background-size: cover;
 	color:rgb(0,128,128);
 	background-color: (10,20,30);
@@ -20,6 +22,6 @@
 }
 
 body{
-	background-image: url("https://i.ytimg.com/vi/YWcrfp_dXKM/maxresdefault.jpg" );
+	background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg" );
 	background-size: cover;
 }
