@@ -1,5 +1,6 @@
-/* */
-.main {
+/* font-family: font, fallbackfont   [Fallback font used if font not supported by visitor's browser
+ fon-size: 32px*/
+main {
 	background-image: url('https://i.ytimg.com/vi/YWcrfp_dXKM/maxresdefault.jpg');
 	background-position: center top;
 	background-size: cover;
