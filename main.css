@@ -53,3 +53,10 @@ h5{
 	color:white;
 	
 }
+
+.nav li{
+	display:inline;
+}
+.nav li a:active{
+	top:3px;
+}
