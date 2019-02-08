@@ -8,6 +8,7 @@
 content --> padding --> border --> margin
 border: size type color        type--> [solid, dotted, dashed]
 margin: size; --> surrounding space from next element
+margin-top, margin-bottom, margin-left, margin-right;
  'http://www.birds.com/wp-content/uploads/home/bird4.jpg'*/
 .main {
 	background-image: url("https://i.ytimg.com/vi/YWcrfp_dXKM/maxresdefault.jpg");	
@@ -27,7 +28,7 @@ body{
 }
 
 img{
-	border: 5px solid #fff;
+	border: 5px dotted #fff;
 
 }
 
