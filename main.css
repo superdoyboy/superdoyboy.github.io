@@ -7,7 +7,7 @@
  id > class
 content --> padding --> border --> margin
 border: size type color        type--> [solid, dotted, dashed]
-
+margin: size; --> surrounding space from next element
  'http://www.birds.com/wp-content/uploads/home/bird4.jpg'*/
 .main {
 	background-image: url("https://i.ytimg.com/vi/YWcrfp_dXKM/maxresdefault.jpg");	
@@ -32,6 +32,6 @@ img{
 }
 
 h3{
-	color=white;
-	margin=5px;
+	color:white;
+	margin:5px;
 }
