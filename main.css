@@ -9,7 +9,10 @@ content --> padding --> border --> margin
 border: size type color        type--> [solid, dotted, dashed]
 margin: size; --> surrounding space from next element
 margin-top, margin-bottom, margin-left, margin-right;
- 'http://www.birds.com/wp-content/uploads/home/bird4.jpg'*/
+ 'http://www.birds.com/wp-content/uploads/home/bird4.jpg'
+display:block or inline;
+ */
+
 .main {
 	background-image: url("https://i.ytimg.com/vi/YWcrfp_dXKM/maxresdefault.jpg");	
 	background-position: center top;
@@ -29,6 +32,7 @@ body{
 
 img{
 	border: 5px dotted #fff;
+	display:inline;
 }
 
 h5{
