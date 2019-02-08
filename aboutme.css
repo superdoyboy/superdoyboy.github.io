@@ -9,6 +9,7 @@
 
 .main a{
 	color:rgb(0, 100, 200);
+	display:inline;
 }
 
 body{
