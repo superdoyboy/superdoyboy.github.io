@@ -8,3 +8,12 @@
 	background-size: cover;
 	color:rgb(0,128,128);
 }
+
+.main a{
+	color:rgb(0, 100, 200);
+}
+
+body{
+	background-image: url('http://www.birds.com/wp-content/uploads/home/bird4.jpg');
+	background-size: cover;
+}
