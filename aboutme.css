@@ -16,7 +16,7 @@ body{
 }
 
 img{
-	border: 5px dashed #fff;
+	border: 5px dashed #000;
 	display: inline;
 	justify-content: center;
 }
