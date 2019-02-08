@@ -15,6 +15,10 @@ float:right or left;
 display:flex <-- align horizontally
 flex-wrap:wrap to prevent element going off page
 justify-content: center to center things;
+
+position:relative;
+top:#px;
+left:#px;
  */
 
 .main {
@@ -35,7 +39,7 @@ body{
 }
 
 img{
-	border: 5px dotted #fff;
+	border: 5px dashed #fff;
 	display: inline;
 	justify-content: center;
 }
