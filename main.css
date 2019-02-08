@@ -19,6 +19,7 @@ justify-content: center to center things;
 position:relative;
 top:#px;
 left:#px;
+a:active selector allows us to modify something when being clicked
  */
 
 .main {
@@ -42,6 +43,10 @@ img{
 	border: 5px dashed #fff;
 	display: inline;
 	justify-content: center;
+}
+
+img a:active{
+	top: 2px;
 }
 
 h5{
