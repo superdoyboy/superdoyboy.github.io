@@ -25,3 +25,8 @@ body{
 	background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg" );
 	background-size: cover;
 }
+
+img{
+	border: 5px solid #fff;
+
+}
