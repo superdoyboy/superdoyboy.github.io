@@ -11,6 +11,10 @@ margin: size; --> surrounding space from next element
 margin-top, margin-bottom, margin-left, margin-right;
  'http://www.birds.com/wp-content/uploads/home/bird4.jpg'
 display:block or inline;
+float:right or left;
+display:flex <-- align horizontally
+flex-wrap:wrap to prevent element going off page
+justify-content: center to center things;
  */
 
 .main {
@@ -32,7 +36,8 @@ body{
 
 img{
 	border: 5px dotted #fff;
-	display:inline;
+	display: inline;
+	justify-content: center;
 }
 
 h5{
