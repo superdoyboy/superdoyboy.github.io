@@ -30,3 +30,8 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+ 
+
+Ajan is a senior at UC Berkeley studying Computer Science and Cognitive Science. He's interested in many things outside of programming, including learning to play instruments, music in general, dancing, and the field of psychology to name a few. 
+
+In my freetime, I love to mess around on various instruments and learn how to play them. I've tried my hand at a few instruments, such as mandolin, harmonica, ukulele, and piano and enjoy getting a taste of each. I've played violin since middle school and am currently a cymbalist of UC Berkeley's Cal Band. I also partake in the Balinese gamelan ensemble here at UC Berkeley.
